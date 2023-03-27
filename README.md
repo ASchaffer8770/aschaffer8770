@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android and iOS App Development**
 
-- 💬 Ask me about **react, JavaScript, Python, Java**
+- 💬 Ask me about **React, JavaScript, Python, Java**
 
 - 📫 How to reach me **alex@Schaffer.tech**
 
