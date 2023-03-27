@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aschaffer8770&label=Profile%20views&color=0e75b6&style=flat" alt="aschaffer8770" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](schaffer.tech)
+- 🔭 I’m currently working on [my portfolio](https://github.com/ASchaffer8770/portfolio)
 
 - 🌱 I’m currently learning **Android and iOS App Development**
 
