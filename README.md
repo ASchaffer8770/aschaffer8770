@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aschaffer8770&label=Profile%20views&color=0e75b6&style=flat" alt="aschaffer8770" /> </p>
 
-- 🔭 I’m currently working on [my portfolio](https://schaffer.tech)
+- 🔭 I’m currently working on [my portfolio]([https://schaffer.tech](https://connectify-engineer.lovable.app/))
 
 - 🌱 I’m currently learning **Android and iOS App Development**
 
 - 💬 Ask me about **React, JavaScript, Python, Java**
 
-- 📫 How to reach me **alex@Schaffer.tech**
+- 📫 How to reach me **schaffer.engineering@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
