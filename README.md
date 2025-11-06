@@ -1,17 +1,21 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+<h1 align="center">Hi, I'm Alex</h1>
+<h3 align="center">Full-Stack Developer & Founder of <a href="https://doodzthreads.com" target="_blank">Doodz Threads</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aschaffer8770&label=Profile%20Views&color=0e75b6&style=flat" alt="aschaffer8770" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aschaffer8770&label=Profile%20Views&color=0e75b6&style=flat" alt="aschaffer8770" />
+</p>
 
-- 🔭 I’m currently working on **[my portfolio](https://schaffer-engineering.vercel.app/)** and a mobile app project  
-- 🌱 I’m diving deeper into **Android (Kotlin) and iOS (Swift) Development**  
-- 👨‍💻 Check out my projects at **[schaffer-engineering.vercel.app](https://schaffer-engineering.vercel.app/)**  
-- 💬 Ask me about **React, JavaScript, Python, Java, or mobile dev**  
-- 📫 Reach me at **schaffer.engineering@gmail.com**  
+- **Founder & Developer** of **[Doodz Threads](https://doodzthreads.com)** — Print-on-demand streetwear powered by Next.js, Drizzle, Supabase, and Gelato
+- **Portfolio** → **[schaffer-engineering.vercel.app](https://schaffer-engineering.vercel.app/)**
+- **Currently building** Android Apps (Kotlin) and iOS Apps (Swift)
+- **Ask me about** React, Next.js, Python, Java, mobile dev, or print-on-demand tech
+- **Reach me** → **schaffer.engineering@gmail.com**
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/alexander-schaffer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-schaffer" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/alexander-schaffer" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-schaffer" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
