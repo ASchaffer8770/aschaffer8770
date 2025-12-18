@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=aschaffer8770&label=Profile%20Views&color=0e75b6&style=flat" alt="aschaffer8770" />
 </p>
 
-- **Founder & Developer** of **[Doodz Threads](https://doodzthreads.com)** — Print-on-demand streetwear powered by Next.js, Drizzle, Supabase, and Gelato
+- **Founder & Developer** of **[Doodz Threads](https://doodzthreads.com)** — Print-on-demand streetwear
 - **Portfolio** → **[schaffer-engineering.vercel.app](https://schaffer-engineering.vercel.app/)**
 - **Currently building** Android Apps (Kotlin) and iOS Apps (Swift)
 - **Ask me about** React, Next.js, Python, Java, mobile dev, or print-on-demand tech
