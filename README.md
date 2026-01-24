@@ -15,11 +15,11 @@
 
 ---
 
-## 📱 RoundCount — iOS App (TestFlight Beta)
+## 📱 RoundCount — iOS App (TestFlight)
 
-**RoundCount** is an iOS app for tracking firearms, range sessions, ammo usage, and gear setups — designed for shooters who actually train and want clean, reviewable data.
+**RoundCount** is a local-first iOS app for tracking firearms, **live range sessions**, ammo usage, and gear setups — built for shooters who train regularly and want clean, trustworthy data without cloud lock-in.
 
-This page also serves as the **official support page** for the RoundCount TestFlight beta.
+This page also serves as the **official support page** for the RoundCount TestFlight build.
 
 ---
 
@@ -27,34 +27,38 @@ This page also serves as the **official support page** for the RoundCount TestFl
 
 **Free**
 - Track firearms (brand, model, caliber, class)
-- Log range sessions (round count, ammo, notes)
+- Log live or manual range sessions
 - Review session history per firearm
+- Local-only storage (no accounts, no sync)
 
-**Pro (Beta)**
-- Session photos (stored locally on-device)
+**Pro**
+- Live timed sessions (Session v2)
+- Session photos (targets / malfunctions)
 - Malfunction tracking (categorized + totals)
 - Total range time per session
 - Firearm setups (optic / light / gear)
 - Session → Setup attribution
-- Dashboard analytics & firearm-specific analytics
-- Subtle neon-branded UI
+- Dashboard & per-firearm analytics
+- Subtle neon-accent branded UI
 
-> 🔒 **Privacy-first:** All data is stored locally. No accounts. No cloud. No ads.
+> 🔒 **Privacy-first:** All data is stored locally on-device.  
+> No accounts. No cloud. No ads.
 
 ---
 
-### 🧪 TestFlight Beta – What to Test
+### 🧪 TestFlight – What to Test
 
-- Log sessions and review history
-- Enable **Pro (Beta)** in Settings
-- Test analytics ranges and trends
-- Verify setup selection during session logging
-- Report crashes, performance issues, or confusing UX
+- Start, pause, and end **live sessions**
+- Switch firearms during a session
+- Select and review setups used
+- Review analytics across time ranges
+- Toggle Pro features and verify gated UI
+- Report crashes, incorrect totals, or confusing flows
 
 **Known limitations**
-- No cloud sync yet
-- Analytics are still being refined
-- Battery lifecycle tracking is in progress
+- No cloud sync
+- Maintenance & battery lifecycle tracking in progress
+- Analytics polish ongoing ahead of v1.0
 
 ---
 
@@ -74,26 +78,28 @@ When reporting an issue, please include:
 
 I’m a **Founder and Senior Product Engineer** focused on building real-world software that ships.
 
-I design, build, and ship complete products end-to-end — from architecture and UI/UX to persistence, performance, and deployment.
+I design, build, and maintain complete products end-to-end — from architecture and UI/UX to persistence, performance, and deployment — with a strong bias toward **usability, reliability, and long-term maintainability**.
 
 ---
 
 ### 🚀 Founder / Product Owner
 
-- **Creator of RoundCount** — an iOS-first, local-only training and analytics app
-- **Founder & Lead Engineer** of **[Doodz Threads](https://doodzthreads.com)** — a custom print-on-demand streetwear platform
+- **Creator of RoundCount** — a local-first iOS training & analytics app
+- **Founder & Lead Engineer** of
+  <a href="https://doodzthreads.com" target="_blank"><strong>Doodz Threads</strong></a>,
+  a custom print-on-demand streetwear platform
 - Owns **product vision, architecture, and delivery**
-- Strong focus on **usability, performance, and real constraints**
+- Strong focus on **real constraints, real users, real shipping**
 
 ---
 
 ### 🧠 Senior Software Engineer
 
-- Production **iOS (Swift / SwiftUI / SwiftData)** development
-- Production **Android (Kotlin)** applications
+- Production **iOS** development (Swift, SwiftUI, SwiftData)
+- Production **Android** development (Kotlin)
 - Backend systems with **Spring Boot, PostgreSQL, Redis**
 - Frontend with **TailwindCSS, HTMX, React, Next.js**
-- Experience shipping and maintaining real systems at scale
+- Experience shipping and maintaining real systems in production
 
 ---
 
