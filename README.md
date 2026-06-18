@@ -6,7 +6,7 @@
 
 <p align="center">
   Creator of <strong>RoundCount 🎯</strong> & Founder of
-  <a href="https://doodzthreads.com" target="_blank">Doodz Threads</a>
+  RoundCount</a>
 </p>
 
 <p align="center">
