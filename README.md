@@ -137,7 +137,7 @@ I am especially interested in teams building software for **edge environments, f
 
 ## Portfolio
 
-[schaffer-engineering.vercel.app](https://schaffer-engineering.vercel.app/)
+[alexschaffer.dev](https://alexschaffer.dev/)
 
 ---
 
