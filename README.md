@@ -1,153 +1,147 @@
-<h1 align="center">Alex Schaffer</h1>
+# Alex Schaffer
 
-<p align="center">
-  Founder · Product Engineer · Mobile & Full Stack
-</p>
+**Tactical Systems / Forward Deployed Engineer**
 
-<p align="center">
-  Creator of <strong>RoundCount 🎯</strong> & Founder of
-  RoundCount</a>
-</p>
+Software engineer focused on systems integration, Linux infrastructure, networking, APIs, mobile software, and edge-deployed applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aschaffer8770&label=Profile%20Views&color=0e75b6&style=flat" alt="aschaffer8770" />
-</p>
+I build software that has to work outside of a perfect cloud environment: across devices, services, networks, operators, and real-world constraints.
 
 ---
 
-## 📱 RoundCount — iOS App (TestFlight)
+## Current Focus
 
-**RoundCount** is a local-first iOS app for tracking firearms, **live range sessions**, ammo usage, and gear setups — built for shooters who train regularly and want clean, trustworthy data without cloud lock-in.
+I'm deliberately building toward **tactical systems, mission software, and forward deployed engineering** roles.
 
-This page also serves as the **official support page** for the RoundCount TestFlight build.
+My current technical focus is:
 
----
-
-### ✨ Core Capabilities
-
-**Free**
-- Track firearms (brand, model, caliber, class)
-- Log live or manual range sessions
-- Review session history per firearm
-- Local-only storage (no accounts, no sync)
-
-**Pro**
-- Live timed sessions (Session v2)
-- Session photos (targets / malfunctions)
-- Malfunction tracking (categorized + totals)
-- Total range time per session
-- Firearm setups (optic / light / gear)
-- Session → Setup attribution
-- Dashboard & per-firearm analytics
-- Subtle neon-accent branded UI
-
-> 🔒 **Privacy-first:** All data is stored locally on-device.  
-> No accounts. No cloud. No ads.
+- Linux and edge computing
+- Distributed and intermittently connected systems
+- Android / Kotlin field applications
+- Networking and systems integration
+- REST APIs, WebSockets, and messaging
+- GPS / geospatial software
+- TAK / ATAK development
+- Telemetry and device integration
+- Docker-based deployment
+- Observability, diagnostics, and failure recovery
 
 ---
 
-### 🧪 TestFlight – What to Test
+## Professional Strengths
 
-- Start, pause, and end **live sessions**
-- Switch firearms during a session
-- Select and review setups used
-- Review analytics across time ranges
-- Toggle Pro features and verify gated UI
-- Report crashes, incorrect totals, or confusing flows
+### Systems & Infrastructure
+- Production Linux environments
+- Cloud infrastructure and migrations
+- Networking, DNS, storage, databases, and service integration
+- Production troubleshooting across application, infrastructure, database, and network layers
+- AWS and DigitalOcean
+- Docker and deployment automation
 
-**Known limitations**
-- No cloud sync
-- Maintenance & battery lifecycle tracking in progress
-- Analytics polish ongoing ahead of v1.0
+### Software Engineering
+- Java
+- Kotlin
+- Python
+- Swift / SwiftUI
+- SQL
+- Spring Boot
+- REST APIs
+- PostgreSQL / MySQL
+- Redis
 
----
-
-### 📬 Support & Feedback
-
-- **Email:** schaffer.engineering@gmail.com  
-- **TestFlight:** Use “Send Feedback” from the TestFlight app
-
-When reporting an issue, please include:
-- iPhone model
-- iOS version
-- What you were doing when the issue occurred
-
----
-
-### 🧠 About Me
-
-I’m a **Founder and Senior Product Engineer** focused on building real-world software that ships.
-
-I design, build, and maintain complete products end-to-end — from architecture and UI/UX to persistence, performance, and deployment — with a strong bias toward **usability, reliability, and long-term maintainability**.
+### Forward-Deployed Mindset
+- Translate ambiguous operational requirements into working software
+- Debug across system boundaries instead of treating components in isolation
+- Build for real users and real constraints
+- Own projects from requirements through deployment and support
+- Comfortable working across software, infrastructure, networking, and external systems
 
 ---
 
-### 🚀 Founder / Product Owner
+## Portfolio Direction
 
-- **Creator of RoundCount** — a local-first iOS training & analytics app
-- **Founder & Lead Engineer** of
-  <a href="https://doodzthreads.com" target="_blank"><strong>Doodz Threads</strong></a>,
-  a custom print-on-demand streetwear platform
-- Owns **product vision, architecture, and delivery**
-- Strong focus on **real constraints, real users, real shipping**
+### FieldNode — Edge Systems Lab
+**Status: In development**
 
----
+A deployable edge-software project designed to demonstrate:
 
-### 🧠 Senior Software Engineer
+- Local operation during WAN outages
+- Store-and-forward synchronization
+- Android-to-edge communications
+- Telemetry ingestion
+- Local persistence
+- Service health monitoring
+- Failure injection and recovery
+- Linux / Docker deployment
 
-- Production **iOS** development (Swift, SwiftUI, SwiftData)
-- Production **Android** development (Kotlin)
-- Backend systems with **Spring Boot, PostgreSQL, Redis**
-- Frontend with **TailwindCSS, HTMX, React, Next.js**
-- Experience shipping and maintaining real systems in production
+Planned architecture:
 
----
+```text
+Android / Field Client
+        |
+        | LAN / Wi-Fi
+        v
+Linux Edge Node
+  |- Application Services
+  |- Messaging
+  |- Local Database
+  |- Telemetry Ingestion
+  |- Observability
+  '- Store-and-Forward Sync
+        |
+        | Intermittent WAN
+        v
+Cloud Backend
+```
 
-### 🌐 Links
-
-- **Portfolio:** <a href="https://schaffer-engineering.vercel.app/" target="_blank">schaffer-engineering.vercel.app</a>
-- **Email:** <a href="mailto:schaffer.engineering@gmail.com">schaffer.engineering@gmail.com</a>
-
----
-
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/alexander-schaffer" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="alexander-schaffer"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+This project will expand into geospatial and TAK / ATAK integration as the platform matures.
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+## Shipped Product
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+### RoundCount
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+Creator and lead engineer of **RoundCount**, a local-first mobile application for range-session logging, equipment tracking, analytics, and inventory management.
 
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/htmx/111827" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+RoundCount demonstrates end-to-end product ownership across:
 
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.simpleicons.org/githubactions/111827" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</p>
+- Mobile architecture
+- Local-first persistence
+- Analytics
+- Production UI / UX
+- Release management
+- Real-world user workflows
+- Long-term product maintenance
+
+[View RoundCount on GitHub](https://github.com/ASchaffer8770/RoundCount)
+
+---
+
+## What I'm Looking For
+
+I'm interested in engineering roles where software meets the physical world, especially:
+
+- Forward Deployed Engineer
+- Tactical Systems Engineer
+- Mission Systems Engineer
+- Mission Software Engineer
+- Systems Integration Engineer
+- Edge Software Engineer
+- Field Applications Engineer
+- C2 / Situational Awareness Software
+- TAK / ATAK Engineering
+
+I am especially interested in teams building software for **edge environments, field operations, communications, situational awareness, sensors, and distributed systems**.
+
+---
+
+## Portfolio
+
+[schaffer-engineering.vercel.app](https://schaffer-engineering.vercel.app/)
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/alexander-schaffer)  
+Email: schaffer.engineering@gmail.com
